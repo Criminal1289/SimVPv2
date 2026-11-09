@@ -3,4 +3,5 @@ __pycache__
 /figs
 .vscode
 .ipynb_checkpoints
-.xml
+*.xml
+*.iml
